@@ -1,0 +1,20 @@
+<bz-layout>
+    <!-- Header -->
+    <bz-layout-header fixed>
+        <app-header></app-header>
+    </bz-layout-header>
+    <!-- Sidebar-left -->
+    <bz-sidebar-left compact status="collapsed">
+        <app-sidebar-left></app-sidebar-left>
+    </bz-sidebar-left>
+    <bz-layout-content>
+        <!-- Content -->
+        <bz-layout-column>
+            <ng-content></ng-content>
+        </bz-layout-column>
+        <!-- footer -->
+        <bz-layout-footer>
+            <app-footer></app-footer>
+        </bz-layout-footer>
+    </bz-layout-content>
+</bz-layout>
