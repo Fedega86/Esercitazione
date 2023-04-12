@@ -1,5 +1,5 @@
 # Esercitazione
-![Dashboard](https://user-images.githubusercontent.com/101976279/231385626-42bd32ed-d3bb-4b39-ad82-2ce338a62993.PNG)
+![Dashboard](https://user-images.githubusercontent.com/101976279/231386885-615e58b7-404e-4b2e-a1d4-a14f3e4469c6.PNG)
 
 This is a training repository, its contains a Spring Boot - Angular 15 project.
 
