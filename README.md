@@ -1,4 +1,6 @@
 # Esercitazione
+![Dashboard](https://user-images.githubusercontent.com/101976279/231385626-42bd32ed-d3bb-4b39-ad82-2ce338a62993.PNG)
+
 This is a training repository, its contains a Spring Boot - Angular 15 project.
 
 ## Model
